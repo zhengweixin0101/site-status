@@ -42,7 +42,7 @@
             </template>
           </n-button>
         </n-popselect>
-        <!-- 菜单 -->
+        <!-- 菜单 
         <n-dropdown trigger="click" :options="navMenu">
           <n-button
             :focusable="false"
@@ -55,7 +55,7 @@
               <Icon name="icon:menu" />
             </template>
           </n-button>
-        </n-dropdown>
+        </n-dropdown> -->
       </n-flex>
     </div>
   </nav>
